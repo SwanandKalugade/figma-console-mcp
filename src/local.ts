@@ -5046,6 +5046,8 @@ return {
 			() => this.getFigmaAPI(),
 			() => this.getCurrentFileUrl(),
 			this.variablesCache,
+			undefined, // options
+			() => this.getDesktopConnector(), // Desktop Bridge for description fallback
 		);
 
 		// Register Comment tools
