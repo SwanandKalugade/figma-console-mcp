@@ -4,6 +4,7 @@
 [![npm](https://img.shields.io/npm/v/figma-console-mcp)](https://www.npmjs.com/package/figma-console-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Documentation](https://img.shields.io/badge/docs-docs.figma--console--mcp.southleft.com-0D9488)](https://docs.figma-console-mcp.southleft.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-southleft-ea4aaa?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/southleft)
 
 > **Your design system as an API.** Model Context Protocol server that bridges design and development—giving AI assistants complete access to Figma for **extraction**, **creation**, and **debugging**.
 
@@ -670,14 +671,6 @@ The architecture supports adding new apps with minimal boilerplate — each app 
 - [ ] **AI enhancements** - Intelligent component suggestions and auto-layout optimization
 
 **📖 [Full Roadmap](docs/ROADMAP.md)**
-
----
-
-## 💛 Support This Project
-
-Figma Console MCP is free and open source. If it's saved your team time or improved your design-to-code workflow, consider sponsoring its continued development.
-
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-southleft-ea4aaa?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/southleft)
 
 ---
 
